@@ -1,2 +1,2 @@
-# python
+# Python
 Here are python scripts!
